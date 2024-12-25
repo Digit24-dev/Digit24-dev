@@ -5,7 +5,7 @@
 
 Welcome to Digit24-devGithub!
 
-visit my page : https://digit24-dev.github.io/Digit24-dev.io/
+visit my page : studygram.xyz
 
 - 👋 Hi, I’m @Digit24-dev
 - 👀 I’m interested in programming (C based languages)
